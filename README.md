@@ -5,4 +5,4 @@ modern users have way to much time. here comes the hangman game as a big player 
 
 ## outcome
 players are amazed how much new words they learn and this with an easy game like this.
-many players reportet increasing grades in school just by playing this for 10 minutes / day
+many players reportet increasing grades in school just by playing hangman for 10 minutes / day
